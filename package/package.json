@@ -18,11 +18,8 @@
     "breadcrumb"
   ],
   "type": "module",
-  "exports": {
-    ".": "./index.ts",
-    "./style-components": "./style-components/index.ts",
-    "./components": "./components/index.ts",
-    "./client-components": "./client-components/index.ts",
-    "./scripts": "./scripts/index.ts"
-  }
+    "exports": {
+        ".": "./index.ts",
+        "./components": "./components/index.ts"
+    }
 }
